@@ -20,17 +20,17 @@ SELECT * FROM CUSTOMER;
 
 
 -- Product
-Product_Id	Product_Name	Product_Price
+Product_Id	Product_Name		Product_Price
 1			Television		19000
-2			DVD				3600
-3			Washing Machine	7600
+2			DVD			3600
+3			Washing Machine		7600
 4			Computer		35900
 5			Ipod			3210
-6			Panasonic Phone	2100
+6			Panasonic Phone		2100
 7			Chair			360
 8			Table			490
-9			Sound System	12050
-10			Home Theatre	19350
+9			Sound System		12050
+10			Home Theatre		19350
 
 CREATE TABLE PRODUCT (
 	Product_ID int PRIMARY KEY,
